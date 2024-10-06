@@ -1,5 +1,7 @@
 # dj-pagination
 
+This repo was forked to fix compatibility issues with geonode and django 4.2.x. Geonode 4.3.1 now is fully compatible, so, i have to archive this repo and delete it on Jan 2025.
+
 [![https://travis-ci.org/pydanny/dj-pagination](https://travis-ci.org/pydanny/dj-pagination.svg?branch=master)](https://travis-ci.org/pydanny/dj-pagination)
 
 [![https://codecov.io/github/pydanny/django-pagination?branch=master](https://codecov.io/gh/pydanny/dj-pagination/branch/master/graphs/badge.svg?branch=master&service=github)](https://codecov.io/gh/pydanny/dj-pagination)
